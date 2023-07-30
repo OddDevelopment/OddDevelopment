@@ -6,6 +6,6 @@ I am a Developer that makes Discord Bots and Websites!
   - FrameSearch (Not yet public)
 - 📫 You can find me at 
 
-[![Join us on Discord](https://invidget.switchblade.xyz/xksWyP9aJv?theme=dark)](https://discord.gg/UU8WccFRU2)
+[![Join us on Discord](https://invidget.switchblade.xyz/UU8WccFRU2?theme=dark)](https://discord.gg/UU8WccFRU2)
 
 ### Check out some of the pinned projects below:
